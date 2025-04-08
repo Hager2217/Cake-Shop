@@ -110,7 +110,4 @@ Project
         <p>Lorem ipsum dolor sit amet, consectetuer adispiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. <a href="#" class="readmore">read more</a></p>
       </li>
       <li> <a href="#"><img src="images/desserts.jpg" alt=""></a>
-        <h2><a href="#">Desserts for every occassion</a></h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adispiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. <a href="#" class="readmore">read more</a></p>
-      </li>
-    </ul>
+        </ul>
