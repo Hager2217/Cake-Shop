@@ -114,14 +114,3 @@ Project
         <p>Lorem ipsum dolor sit amet, consectetuer adispiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. <a href="#" class="readmore">read more</a></p>
       </li>
     </ul>
-  </div>
-  <div id="navigation">
-    <div>
-      <ul>
-        <li class="first"><a href="#">help</a></li>
-        <li><a href="#">about cake delight</a></li>
-        <li><a href="#">cake delight talk</a></li>
-        <li><a href="#">developers</a></li>
-        <li><a href="#">privacy policy</a></li>
-        <li><a href="#">terms of use</a></li>
-      </ul>
